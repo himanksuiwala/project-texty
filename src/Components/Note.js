@@ -66,7 +66,7 @@ const NoteItem = styled.div`
 
 const NoteContainer = styled.div`
   margin-top: 30px;
-  min-height: 100vh;
+  min-height: 40vh;
 
   padding: 0 calc(0vw + 30px);
   h3 {
